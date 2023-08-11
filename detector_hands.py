@@ -2,7 +2,7 @@ import cv2
 import mediapipe as mp 
 import numpy as np 
 import time
-
+#teste
 
 class DetectorHands: 
     def __init__(self, 
